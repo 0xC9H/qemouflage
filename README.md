@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/language-C-blue?style=for-the-badge" alt="C">
   <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Windows">
-  <img src="https://img.shields.io/badge/category-red_team_tooling-red?style=for-the-badge" alt="Red Team">
+  <img src="https://img.shields.io/badge/category-red_team-red?style=for-the-badge" alt="Red Team">
   <img src="https://img.shields.io/badge/compiler-mingw--w64-orange?style=for-the-badge" alt="mingw-w64">
   <img src="https://img.shields.io/badge/status-proof_of_concept-yellow?style=for-the-badge" alt="POC">
 </p>
