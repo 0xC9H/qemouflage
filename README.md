@@ -15,6 +15,8 @@
 
 ---
 
+Article : https://0xc9h.github.io/posts/qemouflage-nested-linux-agent-on-windows-without-admin/
+
 ## Overview
 
 Qemouflage is a proof of concept that demonstrates how to run an undetectable Linux implant on a Windows machine with standard user privileges.
